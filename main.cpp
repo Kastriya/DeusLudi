@@ -7,6 +7,7 @@ int main (int argc, char *argv[]) {
     
     long long c;
     long long d = 45;
+    // por is gr8
 
     for (int i = 0; i < 25; i++){
         c = a+b;
